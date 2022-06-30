@@ -1,0 +1,7 @@
+SQLalchemy
+Cách dựng giao diện website cơ bản: html, css, bootstrap
+Jinja in python
+Autogenerate database
+flask db init
+flask db migrate -m "Initial migration."
+flask db upgrade

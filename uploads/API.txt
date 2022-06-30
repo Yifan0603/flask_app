@@ -1,0 +1,14 @@
+QPON: /v1/users/rwb_login2
+RWB: https://apistage.rwbinter.com/api/er/externalauth
+=======================================================
+QPON: /v1/users/add_palyer_byId
+RWB: https://backstage.rwbinter.com/api/supervision/user/<id>
+
+=======================================================
+QPON: /v1/users/rwb_login
+RWB: https://queencasinostage.rwbinter.com/api/user/info
+=======================================================
+QPON: /v1/users/sync_user
+RWB: https://backstage.rwbinter.com/api/auth/token
+=======================================================
+Other defined but unused, can see here: /SERVER/modules/base/controller.py
